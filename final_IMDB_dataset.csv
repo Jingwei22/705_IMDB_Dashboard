@@ -1,0 +1,222 @@
+movie name,year,IMDBrating,votes,genre,movieGross,runtime
+The Shawshank Redemption,1994,9.3,2582027,Drama,28341469,142
+The Dark Knight,2008,9.0,2551440,Action,534858444,152
+Inception,2010,8.8,2265926,Action,292576195,148
+Fight Club,1999,8.8,2032311,Drama,37030102,139
+Forrest Gump,1994,8.8,1991868,Drama,330252182,142
+Pulp Fiction,1994,8.9,1980725,Crime,107928762,154
+The Matrix,1999,8.7,1856207,Action,171479930,136
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,1796207,Action,315544750,178
+The Godfather,1972,9.2,1777669,Crime,134966411,175
+The Lord of the Rings: The Return of the King,2003,9.0,1774812,Action,377845905,201
+Interstellar,2014,8.6,1725869,Adventure,188020017,169
+The Dark Knight Rises,2012,8.4,1650072,Action,448139099,164
+The Lord of the Rings: The Two Towers,2002,8.8,1603059,Action,342551365,179
+Se7en,1995,8.6,1583986,Crime,100125643,127
+Django Unchained,2012,8.4,1492698,Drama,162805434,165
+Gladiator,2000,8.5,1451856,Action,187705427,155
+Batman Begins,2005,8.2,1424905,Action,206852432,140
+Inglourious Basterds,2009,8.3,1392126,Adventure,120540719,153
+The Silence of the Lambs,1991,8.6,1383220,Crime,130742922,118
+Saving Private Ryan,1998,8.6,1344537,Drama,216540909,169
+The Wolf of Wall Street,2013,8.2,1338453,Biography,116900694,180
+Star Wars,1977,8.6,1319961,Action,322740140,121
+Schindler's List,1993,9.0,1314442,Biography,96898818,195
+The Prestige,2006,8.5,1292040,Drama,53089891,130
+The Departed,2006,8.5,1284153,Crime,132384315,151
+Shutter Island,2010,8.2,1255977,Mystery,128012934,138
+The Green Mile,1999,8.6,1255499,Crime,136801374,189
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1248430,Action,290475067,124
+The Godfather: Part II,1974,9.0,1228742,Crime,57300000,202
+Memento,2000,8.4,1205852,Mystery,25544867,113
+Joker,2019,8.4,1187090,Crime,335451311,122
+Back to the Future,1985,8.5,1158748,Adventure,210609762,116
+American Beauty,1999,8.4,1130937,Drama,130096601,122
+Leon: The Professional,1994,8.5,1125066,Action,19501238,110
+Goodfellas,1990,8.7,1113794,Biography,46836394,145
+V for Vendetta,2005,8.2,1097943,Action,70511035,132
+American History X,1998,8.5,1095218,Drama,6719864,119
+Kill Bill: Vol. 1,2003,8.2,1082527,Action,70099045,111
+WALL-E,2008,8.4,1082337,Animation,223808164,98
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,1078438,Action,305413918,143
+Terminator 2: Judgment Day,1991,8.6,1066715,Action,204843350,137
+The Usual Suspects,1995,8.5,1059546,Crime,23341568,106
+Avengers: Endgame,2019,8.4,1046169,Action,858373000,181
+The Truman Show,1998,8.2,1034430,Comedy,125618201,103
+The Lion King,1994,8.5,1022542,Animation,422783777,88
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,1019963,Action,309125409,131
+Braveheart,1995,8.4,1015902,Biography,75600000,178
+Finding Nemo,2003,8.2,1015876,Animation,380843261,100
+Up,2009,8.3,1012546,Animation,293004164,96
+Avengers: Infinity War,2018,8.4,1009390,Action,678815482,149
+Reservoir Dogs,1992,8.3,989303,Crime,2832029,99
+The Shining,1980,8.4,983511,Drama,44017374,146
+One Flew Over the Cuckoo's Nest,1975,8.7,982060,Drama,112000000,133
+Eternal Sunshine of the Spotless Mind,2004,8.3,979702,Drama,34400301,108
+The Sixth Sense,1999,8.2,967921,Drama,293506292,107
+Mad Max: Fury Road,2015,8.1,967591,Action,154058340,120
+Toy Story,1995,8.3,962120,Animation,191796233,81
+Gone Girl,2014,8.1,949805,Drama,167767189,149
+Jurassic Park,1993,8.2,944045,Action,402453882,127
+Indiana Jones and the Raiders of the Lost Ark,1981,8.4,942493,Action,248159971,115
+No Country for Old Men,2007,8.2,940085,Crime,74283625,122
+Catch Me If You Can,2002,8.1,937148,Biography,164615351,141
+Good Will Hunting,1997,8.3,936126,Drama,138433435,126
+A Beautiful Mind,2001,8.2,909421,Biography,170742341,135
+"Monsters, Inc.",2001,8.1,881863,Animation,289916256,92
+Die Hard,1988,8.2,856352,Action,83008852,132
+Alien,1979,8.5,852535,Horror,78900000,117
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,844433,Adventure,381011219,130
+The Terminator,1984,8.1,840874,Action,38400000,107
+Snatch,2000,8.3,835789,Comedy,30328156,102
+The Intouchables,2011,8.5,830506,Biography,13182281,112
+Requiem for a Dream,2000,8.3,819911,Drama,3635482,102
+Toy Story 3,2010,8.3,812616,Animation,415004880,103
+Scarface,1983,8.3,809670,Crime,45598982,170
+A Clockwork Orange,1971,8.3,808967,Crime,6207725,136
+Whiplash,2014,8.5,806835,Drama,13092000,106
+The Pianist,2002,8.5,803981,Biography,32572577,150
+Taxi Driver,1976,8.3,795298,Crime,28262574,114
+The Big Lebowski,1998,8.1,789621,Comedy,17498804,117
+The Grand Budapest Hotel,2014,8.1,779799,Adventure,59100318,99
+12 Angry Men,1957,9.0,762570,Crime,4360000,96
+Gran Torino,2008,8.1,760963,Drama,148095302,116
+Blade Runner,1982,8.1,747909,Action,32868943,117
+Amelie,2001,8.3,742683,Comedy,33225499,122
+"The Good, the Bad and the Ugly",1966,8.8,741494,Adventure,6100000,178
+City of God,2002,8.6,740383,Crime,7563397,130
+Parasite,2019,8.5,740366,Comedy,53367844,132
+Indiana Jones and the Last Crusade,1989,8.2,737433,Action,197171806,127
+Spirited Away,2001,8.6,730626,Animation,10055859,125
+Logan,2017,8.1,727319,Action,226277068,137
+Full Metal Jacket,1987,8.3,723348,Drama,46357676,116
+How to Train Your Dragon,2010,8.1,718884,Animation,217581231,98
+The Incredibles,2004,8.0,708648,Animation,261441092,115
+Ratatouille,2007,8.1,701614,Animation,206445654,111
+Aliens,1986,8.4,698736,Action,85160248,137
+Inside Out,2015,8.2,686519,Animation,356461711,95
+12 Years a Slave,2013,8.1,685158,Biography,56671993,134
+Prisoners,2013,8.1,678549,Crime,61002302,153
+Life Is Beautiful,1997,8.6,675635,Comedy,57598247,116
+Million Dollar Baby,2004,8.1,674761,Drama,100492203,132
+Trainspotting,1996,8.1,673151,Drama,16501785,93
+Fargo,1996,8.1,663251,Crime,24611975,98
+Pan's Labyrinth,2006,8.2,655560,Drama,37634615,118
+Psycho,1960,8.5,652314,Horror,32000000,109
+2001: A Space Odyssey,1968,8.3,650825,Adventure,56954992,149
+Apocalypse Now,1979,8.5,650216,Drama,83471511,147
+Heat,1995,8.3,633085,Action,67436818,170
+Groundhog Day,1993,8.1,613816,Comedy,70906973,101
+Into the Wild,2007,8.1,611460,Adventure,18354356,148
+Jaws,1975,8.1,582060,Adventure,260000000,124
+L.A. Confidential,1997,8.3,570921,Crime,64616940,138
+"Lock, Stock and Two Smoking Barrels",1998,8.2,570473,Action,3897569,107
+There Will Be Blood,2007,8.2,568929,Drama,40222514,158
+Oldboy,2003,8.4,561156,Action,707481,120
+Rocky,1976,8.1,559296,Drama,117235247,120
+Casablanca,1942,8.5,558874,Drama,1024560,102
+1917,2019,8.2,547918,Action,159227644,119
+Monty Python and the Holy Grail,1975,8.2,530899,Adventure,1229197,91
+Casino,1995,8.2,505319,Crime,42438300,178
+Hacksaw Ridge,2016,8.1,500689,Biography,67209615,139
+"Three Billboards Outside Ebbing, Missouri",2017,8.1,489254,Comedy,54513740,115
+Spider-Man: Into the Spider-Verse,2018,8.4,487729,Animation,190241310,117
+Rear Window,1954,8.5,480036,Mystery,36764313,112
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,479732,Comedy,275902,95
+Coco,2017,8.4,475557,Animation,209726015,105
+Dead Poets Society,1989,8.1,471182,Comedy,95860116,128
+Rush,2013,8.1,468019,Action,26947624,123
+Warrior,2011,8.2,462952,Action,13657115,140
+Green Book,2018,8.2,462808,Biography,85080171,130
+Spotlight,2015,8.1,458880,Biography,45055776,129
+The Help,2011,8.1,449347,Drama,169708112,146
+Beauty and the Beast,1991,8.0,441489,Animation,218967620,84
+Citizen Kane,1941,8.3,433825,Drama,1585634,119
+The Thing,1982,8.2,408866,Horror,13782838,109
+Room,2015,8.1,408391,Drama,14677674,118
+Platoon,1986,8.1,406223,Drama,138530565,120
+Unforgiven,1992,8.2,403632,Drama,101157447,130
+Aladdin,1992,8.0,402189,Animation,217350219,90
+Vertigo,1958,8.3,394007,Mystery,3200000,128
+Amadeus,1984,8.4,393077,Biography,51973029,160
+Stand by Me,1986,8.1,392809,Adventure,52287414,89
+Life of Brian,1979,8.0,392433,Comedy,20045115,94
+The Exorcist,1973,8.1,391436,Horror,232906145,122
+The Wizard of Oz,1939,8.1,389345,Adventure,2076020,102
+3 Idiots,2009,8.4,385329,Comedy,6532908,170
+The Lives of Others,2006,8.4,382876,Drama,11286112,137
+Princess Mononoke,1997,8.4,381385,Animation,2375308,134
+Howl's Moving Castle,2004,8.2,378435,Animation,4711096,119
+Ford v Ferrari,2019,8.1,365569,Action,117624028,152
+Hotel Rwanda,2004,8.1,350777,Biography,23530892,121
+Downfall,2004,8.2,349925,Biography,5509040,156
+Raging Bull,1980,8.2,345677,Biography,23383987,129
+Once Upon a Time in America,1984,8.3,342357,Crime,5321508,229
+Seven Samurai,1954,8.6,338592,Action,269061,207
+The Deer Hunter,1978,8.1,333270,Drama,48979328,183
+My Neighbor Totoro,1988,8.1,326871,Animation,1105564,86
+Once Upon a Time in the West,1968,8.5,323032,Western,5321508,165
+North by Northwest,1959,8.3,321253,Adventure,13275000,136
+Chinatown,1974,8.2,319329,Drama,8486653,130
+The Hunt,2012,8.3,318994,Drama,687185,115
+Gone with the Wind,1939,8.2,309873,Drama,198676459,238
+Before Sunrise,1995,8.1,298161,Drama,5535405,101
+Lawrence of Arabia,1962,8.3,287667,Adventure,44824144,218
+Some Like It Hot,1959,8.2,261919,Comedy,25000000,121
+Dances with Wolves,1990,8.0,259447,Adventure,184208848,181
+The Sting,1973,8.3,257272,Comedy,159600000,129
+Before Sunset,2004,8.1,256810,Drama,5820649,80
+Cinema Paradiso,1988,8.5,254282,Drama,11990401,155
+For a Few Dollars More,1965,8.2,251190,Western,15000000,132
+Your Name.,2016,8.4,249340,Animation,5017246,106
+The Boat,1981,8.4,246823,Drama,11487676,149
+A Separation,2011,8.3,241064,Drama,7098492,123
+The Great Escape,1963,8.2,240497,Adventure,12100000,172
+Amores perros,2000,8.1,237036,Drama,5383834,154
+Modern Times,1936,8.5,236952,Comedy,163245,87
+Singin' in the Rain,1952,8.3,236753,Comedy,8819028,103
+Ben-Hur,1959,8.1,235304,Adventure,74700000,212
+Gandhi,1982,8.1,227780,Biography,52767889,191
+The Sound of Music,1965,8.1,225914,Biography,163214286,172
+The Great Dictator,1940,8.4,219884,Comedy,288475,125
+The Bridge on the River Kwai,1957,8.2,216944,Adventure,44908000,161
+The Secret in Their Eyes,2009,8.2,206218,Drama,6391436,129
+Wild Tales,2014,8.1,193493,Comedy,3107072,122
+Like Stars on Earth,2007,8.3,188272,Drama,1223869,165
+Dangal,2016,8.3,182274,Action,12391761,161
+City Lights,1931,8.5,181377,Comedy,19181,87
+The Apartment,1960,8.3,177969,Comedy,18600000,125
+Cool Hand Luke,1967,8.1,174375,Crime,16217773,127
+Memories of Murder,2003,8.1,172560,Crime,14131,132
+Dial M for Murder,1954,8.2,172220,Crime,12562,105
+Incendies,2010,8.3,171687,Drama,6857096,131
+Metropolis,1927,8.3,171368,Drama,1236166,153
+In the Name of the Father,1993,8.1,171288,Biography,25010410,133
+The Third Man,1949,8.1,169281,Film-Noir,449191,93
+La Haine,1995,8.1,167908,Crime,309811,98
+Rashomon,1950,8.2,165290,Crime,96568,88
+Bicycle Thieves,1948,8.3,160569,Drama,332930,89
+M,1931,8.3,155078,Crime,28877,99
+Double Indemnity,1944,8.3,154119,Crime,5720000,107
+On the Waterfront,1954,8.1,152575,Crime,9600000,108
+The Handmaiden,2016,8.1,138113,Drama,2006788,145
+Rebecca,1940,8.1,134952,Drama,4360000,130
+All About Eve,1950,8.2,129462,Drama,10177,138
+The Kid,1921,8.3,124369,Comedy,5450000,68
+Ran,1985,8.2,123168,Action,4135750,162
+The Treasure of the Sierra Madre,1948,8.2,122974,Adventure,5014000,126
+Witness for the Prosecution,1957,8.4,121900,Crime,8175000,116
+Mr. Smith Goes to Washington,1939,8.1,114226,Comedy,9600000,129
+The Gold Rush,1925,8.2,109615,Adventure,5450000,95
+It Happened One Night,1934,8.1,102120,Comedy,4360000,105
+The Grapes of Wrath,1940,8.1,91520,Drama,55000,129
+The General,1926,8.2,89771,Action,1033895,67
+Capernaum,2018,8.4,84389,Drama,1661096,126
+Ikiru,1952,8.3,76621,Drama,55240,143
+Children of Heaven,1997,8.2,73414,Drama,933933,89
+The Best Years of Our Lives,1946,8.1,63030,Drama,23650000,170
+The Battle of Algiers,1966,8.1,59004,Drama,55908,121
+The Passion of Joan of Arc,1928,8.2,53463,Biography,21877,114
+Sherlock Jr.,1924,8.2,48430,Action,977375,45
+Rififi,1955,8.1,33811,Crime,57226,118
+Pather Panchali,1955,8.3,31348,Drama,536364,125
